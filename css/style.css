@@ -8764,13 +8764,15 @@ textarea.form-control {
 }
 
 .container-portfolio{
-    width: calc(33% - 6px);
+    width: 300px;
     overflow: hidden;
-    height: auto;
-    margin: 3px auto;
+    height: 300px;
+    margin: 5px auto ;
     padding: 0;
-    display: block;
+    display: flex;
     position: relative;
+    border: 0px solid #dfdfdf;
+    
 }
 
 section.containercontainer-portfolio > img{
