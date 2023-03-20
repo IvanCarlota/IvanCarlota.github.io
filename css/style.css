@@ -8771,8 +8771,7 @@ textarea.form-control {
     padding: 3px;
     display: flex;
     position: relative;
-    border: 0px solid #dfdfdf;
-    
+    border: 0px solid #dfdfdf; 
 }
 
 section.containercontainer-portfolio > img{
